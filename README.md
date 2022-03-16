@@ -4,7 +4,7 @@ Group Project Discussion
 
 About Data:
 
-Data is about sales of different items aroung Globe based on different Countries and Regions.
+Data is about sales of an E-commerce enterprise serving different categories of goods around the globe.
 
 Raw data "Superstore_Sales.xlsx" consist of the below Sheets, Fields:
 
